@@ -1,3 +1,3 @@
 # Salary_Calculator
 
-A multi-function Salary Calculator.
+A simple multi-function Salary Calculator made with Python.
