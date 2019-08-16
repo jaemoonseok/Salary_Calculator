@@ -24,7 +24,7 @@ def main():
 #Make first function loadData
 
 def loadData():
-    open('Assignment3-DataFile.txt')
+    open('Salary_Records.txt')
     for i in loadData:
         salary_records.append(i)
     return salary_records
